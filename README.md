@@ -29,6 +29,10 @@ Ao clicar, é gerado uma história aleatória.
 - Uso de eventos para capturar interações do usuário.
 - Design de interfaces responsivas.
 
+🎥 **Demonstração**  
+-Confira o projeto em funcionamento clicando no link abaixo:  
+-[🔗 Gerador de Histórias - Visualizar Projeto](https://gustavo-saturnino-1997.github.io/Projeto-gerador-de-historias/)
+
 ![Visualize o projeto](/img/img-projeto-histórias-aleatórias.png)
 
 🤝 Contribuição
