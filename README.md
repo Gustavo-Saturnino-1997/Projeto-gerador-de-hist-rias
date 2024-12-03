@@ -32,7 +32,7 @@ Ao clicar, é gerado uma história aleatória.
 ![Visualize o projeto](/img/img-projeto-histórias-aleatórias.png)
 
 🤝 Contribuição
-Feedbacks são bem-vindos! Abra uma issue ou envie um pull request com sugestões e melhorias.
+- Feedbacks são bem-vindos! Abra uma issue ou envie um pull request com sugestões e melhorias.
 
 📞 Contato  
 [LinkedIn - Gustavo Saturnino](https://www.linkedin.com/in/gustavo-araujo-31a515250/)  
