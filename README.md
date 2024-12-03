@@ -21,7 +21,7 @@ Ao clicar, é gerado uma história aleatória.
 
 ## 📦 Como Usar
 1. Clone o repositório:
-   git clone https://github.com/Gustavo-Saturnino-1997/Projeto-gerador-de-hist-rias.git
+   git clone https://github.com/Gustavo-Saturnino-1997/Projeto-gerador-de-historias.git
 2. Abra o arquivo index.html no seu navegador para testar localmente.
 
 📚 Aprendizados
