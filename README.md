@@ -24,21 +24,17 @@ Ao clicar, é gerado uma história aleatória.
    git clone https://github.com/Gustavo-Saturnino-1997/Projeto-gerador-de-hist-rias.git
 2. Abra o arquivo index.html no seu navegador para testar localmente.
 
-##📚 Aprendizados
+📚 Aprendizados
 Manipulação do DOM com JavaScript.
 Uso de eventos para capturar interações do usuário.
 Design de interfaces responsivas.
 
-##📸 Demonstração
-Confira o projeto em funcionamento:
-
-[![Visualize o projeto](/img/img-projeto-histórias-aleatórias.png)]
+![Visualize o projeto](/img/img-projeto-histórias-aleatórias.png)
 
 🤝 Contribuição
 Feedbacks são bem-vindos! Abra uma issue ou envie um pull request com sugestões e melhorias.
 
 📞 Contato
-LinkedIn: Gustavo Saturnino
-GitHub: Gustavo-Saturnino-1997
+[LinkedIn - Gustavo Saturnino](https://www.linkedin.com/in/gustavo-araujo-31a515250/)
 WhatsApp: [Enviar Mensagem](https://wa.me/5561999911234?text=Olá%20Gustavo,%20tudo%20bem?)
 
